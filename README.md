@@ -27,3 +27,7 @@ Period.java – Data model (provided)
 Notes:
 The app uses data from a weather API and assumes an internet connection.
 UI is built using JavaFX components such as VBox, HBox, TextField, and ImageView.
+
+<img width="453" height="421" alt="image" src="https://github.com/user-attachments/assets/2381643b-8787-4bd5-a3a0-da6d4f8daf49" />
+
+<img width="451" height="821" alt="image" src="https://github.com/user-attachments/assets/722fe0d8-49a9-47a9-a066-5fdfc65c142c" />
